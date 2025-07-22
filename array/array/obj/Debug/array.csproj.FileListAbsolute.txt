@@ -5,3 +5,4 @@ C:\Users\Me\Desktop\dotnet1\array\array\obj\Debug\array.csproj.AssemblyReference
 C:\Users\Me\Desktop\dotnet1\array\array\obj\Debug\array.csproj.CoreCompileInputs.cache
 C:\Users\Me\Desktop\dotnet1\array\array\obj\Debug\array.exe
 C:\Users\Me\Desktop\dotnet1\array\array\obj\Debug\array.pdb
+C:\Users\Me\Desktop\dotnet1\array\array\obj\Debug\array.exe.config
